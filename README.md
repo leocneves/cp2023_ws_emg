@@ -1,1 +1,1 @@
-# cp2023_ws_emg
+# Workshop Campus Party 2023 - Jogue sem Joystick: Interface de Pedra-Papel-Tesoura Controlada por EMG
